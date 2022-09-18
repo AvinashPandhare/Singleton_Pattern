@@ -21,6 +21,9 @@ public class Class_2 {
                            + y.hashCode());
         System.out.println("Hashcode of z is "
                            + z.hashCode());
+		
+	System.out.println("Latest added code");
+		
   
         // Condition check
         if (x == y && y == z) {
